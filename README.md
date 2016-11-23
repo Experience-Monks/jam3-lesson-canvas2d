@@ -1,8 +1,12 @@
 # jam3-lesson-canvas2d
 
-[![experimental](http://badges.github.io/stability-badges/dist/experimental.svg)](http://github.com/badges/stability-badges)
+> *work in progress*
 
 Some code for a Jam3 Canvas2D lesson/workshop.
+
+Screenshots:
+
+<img src="screenshots/images.png" width="100%" />
 
 Topics include:
 
