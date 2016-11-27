@@ -1,10 +1,8 @@
 # jam3-lesson-canvas2d
 
-> *work in progress*
+Some code for a live workshop on Canvas2D at Jam3.
 
-Some code for a Jam3 Canvas2D workshop.
-
-The workshop explored how to make the following shapes, animated:
+The workshop explores how to make the following shapes, animated:
 
 <img src="screenshots/images.png" width="100%" />
 
@@ -18,6 +16,27 @@ Some of the topics include:
   - circle rendering
 - equation of a circle
 - simplex noise
+
+## Code
+
+The code is broken up into 3 parts:
+
+- Boilerplate and rectangles with `context.fillRect()`
+- Arcs with `context.arc()`
+- Drawing arcs with noise and `context.lineTo()`
+
+You can see the `lib/solutions` folder for the different steps, or checkout the `final` branch for the final output.
+
+## Further Work
+
+The code here lays the groundwork for slightly more complex generative artwork. By removing the `clearRect` and `fillRect` calls each frame and selecting a different colour palette, you can end up with images like this:
+
+<img src="screenshots/1.png" width="24%" />
+<img src="screenshots/2.png" width="24%" />
+<img src="screenshots/4.png" width="24%" />
+<img src="screenshots/3.png" width="24%" />
+
+See the `paint` branch for an example.
 
 ## License
 
