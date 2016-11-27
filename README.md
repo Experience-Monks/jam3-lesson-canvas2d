@@ -1,8 +1,6 @@
 # jam3-lesson-canvas2d
 
-Some code for a live workshop on Canvas2D at Jam3.
-
-The workshop explores how to make the following shapes, animated:
+Some code for a workshop on Canvas2D at Jam3. Some of the outputs of the workshop:
 
 <img src="screenshots/images.png" width="100%" />
 
