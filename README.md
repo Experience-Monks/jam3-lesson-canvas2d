@@ -2,22 +2,22 @@
 
 > *work in progress*
 
-Some code for a Jam3 Canvas2D lesson/workshop.
+Some code for a Jam3 Canvas2D workshop.
 
-Screenshots:
+The workshop explored how to make the following shapes, animated:
 
 <img src="screenshots/images.png" width="100%" />
 
-Topics include:
+Some of the topics include:
 
 - Setting up a retina-scaled Canvas 2D
 - Canvas2D API
   - transforms (scale, rotate)
   - rectangle fills
-  - line strokes
+  - paths and line strokes
   - circle rendering
 - equation of a circle
-- repeating simplex noise
+- simplex noise
 
 ## License
 
