@@ -15,6 +15,17 @@ Some of the topics include:
 - equation of a circle
 - simplex noise
 
+## Usage
+
+```sh
+git clone https://github.com/Jam3/jam3-lesson-canvas2d.git
+cd jam3-lesson-canvas2d
+npm install
+npm start
+```
+
+Now open `localhost:9966` in your browser.
+
 ## Code
 
 The code is broken up into 3 parts:
